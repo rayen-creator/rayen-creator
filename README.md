@@ -48,7 +48,7 @@ Please feel free to clone projects or ask me anything if you think something cou
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" />
 </a>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,symfony,java,ts" />
+    <img src="https://skillicons.dev/icons?i=dotnet,symfony,java,ts,angular" />
   </a>
 
 </p>
