@@ -5,26 +5,15 @@
 <a href="https://github.com/rayen_creator">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=157DEC&center=true&vCenter=true&lines=Hey+there%2C+I%27m+Rayen;Full-Stack+Web+Developer" alt="rayen_creator" /></a>
 <h1/> 
-<div align="center">
-<h6>Find me on </h6>
-<a href="https://github.com/rayen-creator">
-  <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-</a>
-<a href="mailto:rayenoueslati60@gmail.com">
-   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-</a>
-<a href="https://www.linkedin.com/in/rayen-oueslati-72a55b1b0/">
-   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://twitter.com/rayenoueslati8">
-   <img alt="Github" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-
-
-</div>
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=rayen-creator.visitor-badge)
 [![Github](https://img.shields.io/github/followers/rayen-creator?label=Follow&style=social)](https://github.com/rayen-creator)
+
+<h5 align="center">
+Hey Fellow < Developers/ > welcome to my github profile. <br>
+Please feel free to clone projects or ask me anything if you think something could be better. <br>
+<i>Happy Coding!</i> 😊
+</h5> 
 
 ## :hand: About Me 
 
@@ -94,8 +83,22 @@
   </a>
 <p>
 
+## :mag_right: Find me on
 
-
+<div align="center">
+<a href="https://github.com/rayen-creator">
+  <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+<a href="mailto:rayenoueslati60@gmail.com">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
+<a href="https://www.linkedin.com/in/rayen-oueslati-72a55b1b0/">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://twitter.com/rayenoueslati8">
+   <img alt="Github" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+</div>
 
 
 
