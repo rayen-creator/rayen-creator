@@ -77,7 +77,7 @@ Please feel free to clone projects or ask me anything if you think something cou
   <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" title="Debian" alt="Debian" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="JetBrains" alt="JetBrains" width="50" height="50"/>&nbsp;
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,visualstudio,eclipse,xd,gitlab,github,git,maven" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,visualstudio,eclipse,xd,gitlab,github,git,maven,graphql" />
   </a>
 <p>
 
