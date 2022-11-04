@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">
 <a href="https://github.com/rayen_creator">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=157DEC&center=true&vCenter=true&lines=Hey+there%2C+I%27m+Rayen;Full-Stack+Web+Developer" alt="rayen_creator" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=157DEC&center=true&vCenter=true&lines=Hey+there%2C+I%27m+Rayen;Developer" alt="rayen_creator" /></a>
 <h1/> 
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=rayen-creator.visitor-badge)
@@ -105,6 +105,7 @@ Please feel free to clone projects or ask me anything if you think something cou
 
 
 <!--
+Full-Stack+Web+Developer
 **rayen-creator/rayen-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
