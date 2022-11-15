@@ -1,4 +1,7 @@
+   ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
+
 <p align="center">
+
   <img src="https://github.com/rayen-creator/rayen-creator/blob/main/code.gif" width="45%" height="300px">
 </p>
 <h1 align="center">
