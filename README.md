@@ -103,6 +103,10 @@ Please feel free to clone projects or ask me anything if you think something cou
 <a href="https://www.linkedin.com/in/rayen-oueslati-72a55b1b0/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+   <a href="https://www.reddit.com/user/rayen26" >
+     <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" >
+   </a>
+   
 <a href="https://twitter.com/rayenoueslati8">
    <img alt="Github" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
