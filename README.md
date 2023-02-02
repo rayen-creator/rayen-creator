@@ -20,7 +20,8 @@ Please feel free to clone projects or ask me anything if you think something cou
 
 ## :hand: About Me 
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
+<img width="21%" align="right" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/night%20code.gif" />
 
 - 🔭 I’m currently studying at ESPRIT Higher School of Engineering
   
@@ -51,7 +52,7 @@ Please feel free to clone projects or ask me anything if you think something cou
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" />
 </a>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,symfony,java,ts,angular" />
+    <img src="https://skillicons.dev/icons?i=dotnet,symfony,java,angular,bootstrap" />
   </a>
 
 </p>
