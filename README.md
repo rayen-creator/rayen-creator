@@ -2,7 +2,7 @@
 
 <p align="center">
 
-  <img src="https://github.com/rayen-creator/rayen-creator/blob/main/code.gif" width="45%" height="300px">
+  <img src="https://github.com/rayen-creator/rayen-creator/blob/main/code.gif" width="35%" height="250px">
 </p>
 <h1 align="center">
 <a href="https://github.com/rayen_creator">
