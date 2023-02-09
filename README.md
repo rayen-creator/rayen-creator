@@ -40,6 +40,11 @@ Please feel free to clone projects or ask me anything if you think something cou
  <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
  </a>
+  <a href="https://www.w3schools.com/sass/" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+
+</a>
+
 
 
 <a href="https://nodejs.org" target="_blank">
@@ -83,6 +88,8 @@ Please feel free to clone projects or ask me anything if you think something cou
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,vscode,visualstudio,eclipse,xd,gitlab,github,git,maven,graphql" />
   </a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="40" height="40"/>
 <p>
 
 ## :chart_with_upwards_trend: My GitHub Stats
