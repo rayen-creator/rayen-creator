@@ -82,8 +82,6 @@ Please feel free to clone projects or ask me anything if you think something cou
 </a>
  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" alt="JetBrains" width="50" height="50"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original-wordmark.svg" title="Centos" alt="Centos" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" title="Debian" alt="Debian" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="JetBrains" alt="JetBrains" width="50" height="50"/>&nbsp;
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,vscode,visualstudio,eclipse,xd,gitlab,github,git,maven,graphql" />
