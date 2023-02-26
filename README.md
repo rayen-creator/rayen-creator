@@ -52,10 +52,6 @@ Please feel free to clone projects or ask me anything if you think something cou
 </a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" />
-</a>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=dotnet,symfony,java,angular,bootstrap,spring" />
   </a>
