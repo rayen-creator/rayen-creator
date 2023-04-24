@@ -29,17 +29,13 @@ Please feel free to clone projects or ask me anything if you think something cou
   
 - 👯 I’m looking to collaborate on open Source Project and to work as freelancer
   
- 
-
 
 ## 🚀 Frameworks and Languages
 
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,angular,react,express,nodejs,dotnet,symfony,java,spring" />
   </a>
-
 </p>
-
 
 
 ## :closed_book: DataBase
@@ -76,7 +72,6 @@ Please feel free to clone projects or ask me anything if you think something cou
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayen-creator&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
    </a>
 
-   
 ## :mag_right: Find me on
 
 <div align="center">
@@ -97,11 +92,6 @@ Please feel free to clone projects or ask me anything if you think something cou
    <img alt="Github" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 </div>
-
-
-
-
-
 
 
 <!--
