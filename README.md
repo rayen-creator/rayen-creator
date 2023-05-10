@@ -75,9 +75,6 @@ Please feel free to clone projects or ask me anything if you think something cou
 ## :mag_right: Find me on
 
 <div align="center">
-<a href="https://github.com/rayen-creator">
-  <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-</a>
 <a href="mailto:rayenoueslati60@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
@@ -90,6 +87,9 @@ Please feel free to clone projects or ask me anything if you think something cou
    
 <a href="https://twitter.com/rayenoueslati8">
    <img alt="Github" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+   <a href="https://www.behance.net/rayenoueslati">
+   <img alt="Github" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" />
 </a>
 </div>
 
