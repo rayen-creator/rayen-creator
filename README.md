@@ -28,7 +28,7 @@ Please feel free to clone projects or ask me anything if you think something cou
   
 - 👯 I’m looking to collaborate on open Source Project and to work as freelancer
 
-- 👯 Check out my first [portfolio_website](https://rayen-creator.github.io/my-portfolio/) 
+ - 👯 Check out my first <a href="https://rayen-creator.github.io/my-portfolio/" target="_blank"> portfolio_website </a>
   
 
 ## 🚀 Frameworks and Languages
