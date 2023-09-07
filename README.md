@@ -69,7 +69,7 @@ Please feel free to clone projects or ask me anything if you think something cou
 ## :mag_right: Find me on
 
 <div align="center">
-  <a href="https://www.behance.net/rayenoueslati">
+  <a href="https://gitlab.com/Rayen_Oueslati26" target="_blank">
    <img alt="Github" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/rayen-oueslati-72a55b1b0/">
