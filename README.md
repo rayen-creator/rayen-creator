@@ -35,7 +35,7 @@ Please feel free to clone projects or ask me anything if you think something cou
 ## 🚀 Frameworks and Languages
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwindcss,bootstrap,angular,react,express,nodejs,nestjs,dotnet,spring," />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwindcss,bootstrap,angular,react,express,nodejs,nestjs,spring," />
   </a>
 </p>
 
