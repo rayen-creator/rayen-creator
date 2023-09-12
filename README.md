@@ -43,7 +43,7 @@ Please feel free to clone projects or ask me anything if you think something cou
 ## :closed_book: DataBase
 <p>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres" />
   </a>
 <p>
 
@@ -52,7 +52,7 @@ Please feel free to clone projects or ask me anything if you think something cou
 <p>
 
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,visualstudio,eclipse,xd,gitlab,github,git,maven,graphql,postman,linux,vite" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,idea,xd,gitlab,github,git,maven,graphql,postman,linux,vite" />
   </a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="40" height="40"/>
