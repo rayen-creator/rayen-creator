@@ -70,13 +70,16 @@ Please feel free to clone projects or ask me anything if you think something cou
 
 <div align="center">
   <a href="https://gitlab.com/Rayen_Oueslati26" target="_blank">
-   <img alt="Github" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+   <img alt="Gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+</a>
+   <a href="https://stackoverflow.com/users/13732946/rayen-oueslati">
+   <img alt="stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/rayen-oueslati-72a55b1b0/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
  <a href="https://www.behance.net/rayenoueslati">
-   <img alt="Github" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" />
+   <img alt="behance" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" />
 </a>
 
 </div>
