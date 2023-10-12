@@ -52,7 +52,7 @@ Please feel free to clone projects or ask me anything if you think something cou
 <p>
 
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,xd,gitlab,github,git,maven,graphql,postman,linux,vite,docker,jenkins" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,gitlab,github,git,maven,graphql,postman,linux,vite,docker,jenkins" />
   </a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="40" height="40"/>
