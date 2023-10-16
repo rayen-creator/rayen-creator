@@ -24,7 +24,7 @@ Please feel free to clone projects or ask me anything if you think something cou
 
 - 🔭 I’m currently studying at ESPRIT Higher School of Engineering
   
-- 🌱 I’m currently learning Java Script Frameworks and Librairies, 
+- 🌱 I’m currently learning Java Script Frameworks , Devops , 
   
 - 👯 I’m looking to collaborate on open Source Project and to work as freelancer
 
