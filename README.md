@@ -24,12 +24,11 @@ Please feel free to clone projects or ask me anything if you think something cou
 
 - 🔭 I’m currently studying at ESPRIT Higher School of Engineering
   
-- 🌱 I’m currently learning Java Script Frameworks , Devops , 
+- 🌱 I’m currently learning JavaScript Frameworks , Devops 
   
 - 👯 I’m looking to collaborate on open Source Project and to work as freelancer
-
-
- - 🖥 Check out my  <a href="https://rayen-creator.github.io/my-portfolio/" target="_blank"> portfolio_website </a>
+  
+- 🖥 Check out my  <a href="https://rayen-creator.github.io/my-portfolio/" target="_blank"> portfolio_website </a>
   
 
 ## 🚀 Frameworks and Languages
