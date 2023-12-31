@@ -77,9 +77,6 @@ Please feel free to clone projects or ask me anything if you think something cou
 <a href="https://www.linkedin.com/in/rayen-oueslati-72a55b1b0/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
- <a href="https://www.behance.net/rayenoueslati">
-   <img alt="behance" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" />
-</a>
 
 </div>
 
