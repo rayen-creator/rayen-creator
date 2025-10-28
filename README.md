@@ -51,7 +51,7 @@ Please feel free to clone projects or ask me anything if you think something cou
 <p>
 
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,gitlab,github,git,graphql,postman,linux,vite,docker,jenkins,grafana,rxjs,nginx" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,gitlab,github,git,graphql,postman,linux,vite,docker,jenkins,grafana,rxjs,nginx,rabbitmq" />
   </a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="40" height="40"/>
