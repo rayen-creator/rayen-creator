@@ -26,7 +26,7 @@ Please feel free to clone projects or ask me anything if you think something cou
   
 - 🌱 I’m currently working as Full Stack JS Developer ( ReactJS , Nestjs , Angular , ExpressJS , Nodejs )
   
-- 👯 I’m looking to collaborate on open Source Project and to work as freelancer
+- 👯 I’m looking for a new opportunities to evolve and enhance my experience in the field .
   
 - 🖥 Check out my  <a href="https://rayen-creator.github.io/my-portfolio/" target="_blank"> portfolio_website </a>
   
