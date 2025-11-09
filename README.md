@@ -76,7 +76,7 @@ Please feel free to clone projects or ask me anything if you think something cou
 <a href="https://www.linkedin.com/in/rayen-oueslati-72a55b1b0/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://www.npmjs.com/~rayen_26">
+<a href="https://www.npmjs.com/~rayen_26" target="_blank">
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 </a>
 </div>
