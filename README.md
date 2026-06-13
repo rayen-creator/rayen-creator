@@ -16,7 +16,7 @@ Building scalable web applications with modern JavaScript ecosystems.
 - ⚙️ Backend: **Node.js, NestJS, Express**
 - 🎨 Frontend: **React, Angular**
 - 🗄 Databases: **PostgreSQL, MongoDB**
-- ☁️ Interested in **Cloud, Distributed Systems, and Scalable Architectures**
+- ☁️ Interested in **Cloud, Distributed Systems, Scalable Architectures and Open Source Contributions**
 - 🌍 Open to **relocation opportunities**
 
 
