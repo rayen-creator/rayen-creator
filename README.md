@@ -34,7 +34,7 @@ Building scalable web applications with modern JavaScript ecosystems.
 ![Databases](https://skillicons.dev/icons?i=postgres,mongodb,mysql)
 
 ### DevOps & Tools
-![Tools](https://skillicons.dev/icons?i=docker,nginx,linux,git,github,gitlab,jenkins,rabbitmq,graphql)
+![Tools](https://skillicons.dev/icons?i=docker,nginx,linux,git,github,gitlab,jenkins,rabbitmq,graphql,redis)
 
 ---
 
